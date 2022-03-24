@@ -1,0 +1,138 @@
+body,h1,h2,ul,p{ 
+ margin: 0;
+ padding: 0;
+}
+ .header{
+ background-color: #F5F5DC ;
+ border-bottom: 3px solid black;
+ }
+ .header h1{
+   color: #FF69B4;
+   font-family: sans-serif;
+   padding: 15px 0px;
+   display: inline-block;
+   display: inline-block;
+   }
+   .header .logo{
+   color: #FF00FF;
+   }
+   .menu{
+   float: right;
+   }
+   .menu li{
+    display: inline;
+   }
+   .menu li a{
+   text-decoration: none;
+   color: #FF00FF;
+   font-family: sans-serif;
+   padding: 25px 15px;
+   display: inline-block;
+   }
+   .menu li a:hover{
+    color: #FF6347;
+   }
+   .container{
+   width: 70%;  
+   margin: auto;
+   }
+   .banner{
+    height: 70vh;
+    background-image: url(Blackpink-Wallpaper-19.jpg);
+    background-size: cover;
+    text-align: center;
+    color:#FF00FF;
+    font-family: sans-serif;
+    font-size: 20px;
+   }
+ .banner h1{
+    font-size: 50px;
+    margin-bottom: 50px;
+    padding-top: 100px;
+   }
+.newslatter{
+    background-color: #F5F5DC ;
+    color: #fff;
+    font-family: sans-serif;
+    padding: 20px 0;
+    display: inline-block;
+    width: 100%;
+}
+.newslatter .left{
+float:left;
+color: deeppink;
+}
+.newslatter .right{
+ float: right;
+ padding-top: 20px;
+}
+.newslatter input{
+    padding: 5px;
+}
+.newslatter button{
+    padding: 6px;
+    border: none;
+    background-color: #FF6347;
+    color: #fff;
+    margin-left: 5px;
+}
+.members{
+    padding: 30px 0;
+}
+.box{
+    width: 25%;
+    float: left;
+    text-align: center;
+    font-family: sans-serif;
+    color: #FF6347;
+}
+.box img{
+    max-width: 100%;
+    width: 100px;
+}
+.clr{
+    clear: both;
+}
+.footer{
+    padding: 50px 0;
+    text-align: center;
+    background-color: cornsilk;
+    font-size: 30px;
+    color: #DB7093;
+    margin-top: 40px;
+}
+.main-content{
+    width: 65%;
+    float: left;
+}
+.saidbar{
+    width: 30%;
+    float: right;
+}
+.about-us{
+    margin: 40px 0;
+    color: #D2B4C8;
+}
+.bg-dark{
+    color: #F4A460;
+    padding: 15px;
+    /* background-color: cornflowerblue; */
+}
+.service-box{
+    padding: 30px;
+    margin: 15px 0;
+    background-color: #e5e5e5;
+    border: 1px solid #555;
+}
+label{
+    display: block;
+    margin: 10px 0;
+}
+.input textarea{
+    width: 100%;
+    padding: 10px 0 ;
+}
+.active{
+    color: blacks!important;
+
+}
